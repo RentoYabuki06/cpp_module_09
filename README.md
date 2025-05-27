@@ -1,35 +1,35 @@
 # C++ Module 09
 
-このリポジトリには C++ Module 09 の課題が含まれています。
+This repository contains the exercises for C++ Module 09.
 
-## 目次
+## Table of Contents
 
-- 概要
-- 課題
-- コンパイル方法
-- 使用方法
+- Overview
+- Exercises
+- Compilation
+- Usage
 
-## 概要
+## Overview
 
-C++ Module 09 では、STL コンテナ、イテレータ、アルゴリズムの実践的な使用方法を学びます。この課題を通して、データ構造の操作とアルゴリズムの適用についての理解を深めることができます。
+C++ Module 09 focuses on the practical use of STL containers, iterators, and algorithms. Through these exercises, you will deepen your understanding of data structure manipulation and algorithm application.
 
-## 課題
+## Exercises
 
-このモジュールには以下の課題が含まれています：
+This module includes the following exercises:
 
-- ex00: Bitcoin Exchange - データファイルを読み込み、為替レートを計算する
-- ex01: RPN - 逆ポーランド記法の計算機を実装する
-- ex02: PmergeMe - マージ挿入ソートアルゴリズムを実装する
+- ex00: Bitcoin Exchange - Read data files and calculate exchange rates
+- ex01: RPN - Implement a Reverse Polish Notation calculator
+- ex02: PmergeMe - Implement the merge-insert sort algorithm
 
-## コンパイル方法
+## Compilation
 
-各エクササイズは以下のコマンドでコンパイルできます：
+Each exercise can be compiled using the following commands:
 
 ```bash
 cd exXX
 make
 ```
 
-## 使用方法
+## Usage
 
-各プログラムの詳細な使用方法は、それぞれのディレクトリ内のREADMEを参照してください。
+For detailed usage instructions for each program, please refer to the README in each exercise directory.
